@@ -1,5 +1,8 @@
 {
   "license": "MIT",
+  "scripts": {
+    "script": "node index.js"
+  },
   "dependencies": {
     "@elastic/elasticsearch": "^7.6.1",
     "dotenv": "^8.2.0"
